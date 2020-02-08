@@ -3,9 +3,10 @@
 Because it is Chinese , I just try to translate it in English..
 
 # Environmet:
-_1. python3.5.6
-_2. keras 2.2.4；\n
-_3. tensorflow-gpu 1.12.0. 
+
+* python3.5.6
+* keras 2.2.4；\n
+* tensorflow-gpu 1.12.0. 
 
  
 # Example 1 yolov3_darknet_to_keras
